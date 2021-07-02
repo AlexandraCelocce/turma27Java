@@ -23,6 +23,6 @@ public class ExercicioSe {
 		}
 		System.out.println (" Fim do programa \n ");
 		
-	}
+	} 
 
 }
