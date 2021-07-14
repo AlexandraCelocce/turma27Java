@@ -13,6 +13,7 @@ public class lista5tarefa1 {
 		
 		float a, b, c, maior, local1, local2, menor;
 
+		@SuppressWarnings("resource")
 		Scanner entrada = new Scanner(System.in);
 
 		//Passo 1: Entre com os 3 números

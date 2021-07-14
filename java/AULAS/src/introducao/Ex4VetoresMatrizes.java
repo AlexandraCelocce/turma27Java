@@ -1,6 +1,6 @@
 package introducao;
 
-import java.util.Random;
+
 import java.util.Scanner;
 
 public class Ex4VetoresMatrizes {
@@ -9,7 +9,7 @@ public class Ex4VetoresMatrizes {
 		Scanner leia = new Scanner (System.in);
 		
 		int valores[][] = new int [3][3];
-		int soma=0, diagonal=0;
+		int soma = 0, diagonal=0;
 		
 		for(int linha=0;linha<3;linha++){
 			for(int coluna=0;coluna<3;coluna++){
