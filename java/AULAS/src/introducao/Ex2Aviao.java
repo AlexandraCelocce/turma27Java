@@ -1,4 +1,4 @@
-package introducao;
+/* package introducao;
 
 import java.util.Scanner;
 
@@ -51,4 +51,4 @@ public class Ex2Aviao {
 		voo1.destino = leia.next();
 
 		voo1.registroDeVoo();
-	}}
+	}} */

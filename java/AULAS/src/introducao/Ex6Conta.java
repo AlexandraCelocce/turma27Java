@@ -1,4 +1,4 @@
-package introducao;
+/* package introducao;
 import java.util.Scanner;
 
 public class Ex6Conta {
@@ -22,4 +22,4 @@ public class Ex6Conta {
 
 	}
 
-}
+} */

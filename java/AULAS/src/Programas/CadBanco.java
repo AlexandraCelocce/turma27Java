@@ -1,4 +1,4 @@
-package Programas;
+/* package Programas;
 
 import java.util.Scanner;
 
@@ -45,4 +45,4 @@ public class CadBanco {
 		System.out.println();
 	}
 
-}
+} */

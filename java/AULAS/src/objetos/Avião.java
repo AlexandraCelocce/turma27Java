@@ -8,6 +8,7 @@ public class Avião {
 	public boolean noAr;
 	public int velocidade;
 	public boolean ligado;
+	public String responsavel;
 	
 	
 	public void ligar() {
