@@ -1,0 +1,15 @@
+package com.generation.lojagames.repository;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.support.JpaRepositoryImplementation;
+import org.springframework.stereotype.Repository;
+import com.generation.lojagames.model.Produtos;
+
+
+public interface ProdutoRepository extends  JpaRepositoryImplementation<Produtos, Long> {
+
+	@Repository
+	public List<Produtos> findAllByDescricaoContainingIgnoreCase(String nome);
+
+}
