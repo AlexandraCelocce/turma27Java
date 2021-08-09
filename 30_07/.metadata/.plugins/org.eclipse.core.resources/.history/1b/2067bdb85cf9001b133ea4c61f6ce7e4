@@ -1,0 +1,5 @@
+package com.generation.lojagames.seguranca;
+
+public class BasicSecurityConfig {
+
+}
