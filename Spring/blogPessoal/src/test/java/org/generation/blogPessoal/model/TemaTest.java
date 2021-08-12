@@ -15,7 +15,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 @Entity
 @Table(name = "tb_temas")
-public class Tema{
+public class TemaTest {
     
     @Id	
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
